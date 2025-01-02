@@ -1,8 +1,9 @@
 # Getting Started with Create React App
 
-
+# Clone the repository and do 
 ### `npm install`
 
+# To Run the React App
 ### `npm start`
 
 Runs the app in the development mode.\
