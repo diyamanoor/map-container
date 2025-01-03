@@ -468,8 +468,8 @@ const Map = () => {
               <div
                 style={{ fontFamily: "Arial, sans-serif", textAlign: "center" }}
               >
-                <h2 style={{ margin: "5px 0" }}>US Population density</h2>
-                <h5 style={{ margin: "5px 0" }}>{polygon.name}</h5>
+                <h2 style={{ margin: "5px 0" }}>Population Density</h2>
+                <h3 style={{ margin: "5px 0" }}>{polygon.name}</h3>
                 <p style={{ margin: "5px 0", fontSize: "14px", color: "gray" }}>
                   {polygon.population} People per square mile
                 </p>
